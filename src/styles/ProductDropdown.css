@@ -22,3 +22,16 @@
   margin: 20px 65px;
   font-weight: 600;
 }
+
+@media (max-width: 900px) and (min-width: 600px) {
+  .dropdown {
+    position: absolute;
+    left: 200px;
+  }
+}
+@media (max-width: 599px) {
+  .dropdown {
+    position: absolute;
+    left: 100px;
+  }
+}
