@@ -1,0 +1,21 @@
+.product {
+  width: 28%;
+  padding: 10px;
+}
+.product img {
+  object-fit: contain;
+  width: 100%;
+}
+.product h3 {
+  font-weight: 500;
+  margin-left: 7px;
+  margin-top: 7px;
+  letter-spacing: 0.2px;
+  font-size: 15px;
+}
+.product p {
+  margin-top: 3px;
+  margin-left: 7px;
+  font-size: 13px;
+  color: rgb(20, 108, 223);
+}
